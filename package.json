@@ -1,0 +1,26 @@
+{
+  "name": "xk-zo-xd-tool_lib",
+  "version": "1.0.0",
+  "description": "For tools/functions and other things (This is only used for certain projects)",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello_world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XK-Z0-XD/tool_lib.git"
+  },
+  "keywords": [
+    "xk-z0-xd",
+    "xk-tools",
+    "xk-toolbox",
+    "z0",
+    "tools"
+  ],
+  "author": "xk-z0-xd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XK-Z0-XD/tool_lib/issues"
+  },
+  "homepage": "https://github.com/XK-Z0-XD/tool_lib#readme"
+}
