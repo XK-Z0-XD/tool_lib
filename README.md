@@ -1,6 +1,9 @@
-#   TOOL LIB
-This repository is for certain projects
-or for experimental purposes.
+![Logo](./docs/_media/favicon.ico)
+
+# XK-Z0-XD: tool_lib
+ 
+This repository is for certain projects for experimental purposes.
+
 Content Includes:
 - Javascript
 - XML
